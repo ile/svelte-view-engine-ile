@@ -6,6 +6,35 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "flowfs": "3.2.0-a",
+    "lodash.merge": "^4.6.2",
+    "rollup": "^4.8.0",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup-plugin-svelte": "^7.1.6",
+    "@rollup/plugin-terser": "^0.4.4",
+    "svelte": "^4.2.8",
+    "tmp": "^0.2.1",
+    "ws": "^8.15.0"
+  },
   "author": "lipkoadr",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJFAdrian/svelte-view-engine-lipkoadr.git"
+  },
+  "keywords": [
+    "Svelte",
+    "Express",
+    "view-engine"
+  ],
+  "bugs": {
+    "url": "https://github.com/TJFAdrian/svelte-view-engine-lipkoadr/issues"
+  },
+  "homepage": "https://github.com/TJFAdrian/svelte-view-engine-lipkoadr#readme"
 }
