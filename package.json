@@ -1,5 +1,5 @@
 {
-  "name": "svelte-view-engine-lipkoadr",
+  "name": "svelte-view-engine-ile",
   "version": "1.0.0",
   "description": "An EJS-like view engine for Express with Svelte",
   "main": "index.js",
